@@ -1,3 +1,32 @@
+# Features
+- Users can select their choice of rock, paper, or scissors by clicking on the corresponding button.
+- The computer opponent will randomly select its choice.
+- The winner is determined based on the game's rules: rock beats scissors, scissors beats paper, and paper beats rock.
+- The user's and computer's choices are displayed on the screen, along with the game result (win, lose, or tie).
+- Users can reset the game to play again.
+
+## 🛠 Technologies Used
+- ReactJS
+- HTML and CSS for the user interface
+
+## Installation
+Clone the repository: git clone https://github.com/username/rock-paper-scissors.git
+Install dependencies: npm install
+Start the server: npm run start
+## Usage
+1- Open a web browser and navigate to http://localhost:3000.
+2- Click on the rock, paper, or scissors button to select your choice.
+3- The computer opponent will randomly select its choice.
+4- The winner will be displayed on the screen, along with both choices.
+5- Click on the "Play Again" button to reset the game.
+## Contributing
+-Contributions are welcome! Please submit a pull request with your changes.
+
+## License
+- This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
