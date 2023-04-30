@@ -1,4 +1,7 @@
-# Features
+# Rock Paper Scissors Game
+- This project is a web application that lets users play the classic Rock Paper Scissors game against a computer opponent. The game has a simple user interface and is built using ReactJS.
+
+## Features
 - Users can select their choice of rock, paper, or scissors by clicking on the corresponding button.
 - The computer opponent will randomly select its choice.
 - The winner is determined based on the game's rules: rock beats scissors, scissors beats paper, and paper beats rock.
